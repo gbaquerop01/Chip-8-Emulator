@@ -3,4 +3,4 @@ Chip 8 is an interpreted programming language made in 1970 used for CPUs such as
 such as Pong, Pac-man and others.
 
 # How does it work
-Download the project, open it with your respective IDE (this was programmed in Eclipse), and change the respective ROM string to whichever you want. Upload the ROMs in the ROM folder.
+Download the project, open it with your respective IDE (this was programmed in Eclipse), and change the respective ROM string to whichever you want as long as it's inside the ROM folder. Once that is done, compile the project and execute App.class
